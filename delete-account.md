@@ -1,4 +1,4 @@
-## Hesap Takip
+## Hesap Takip 
 
 Hesap Silme Talebi ve Veri Saklama Bilgilendirmesi
 
