@@ -1,4 +1,4 @@
-# HesapTakip
+# HesapTakip 
 Gizlilik Politikası
 Son Güncelleme Tarihi: 24 Haziran 2026
 
